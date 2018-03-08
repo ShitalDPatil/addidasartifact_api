@@ -1,0 +1,239 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 155,
+        "ok": 155,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 529,
+        "ok": 529,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 342,
+        "ok": 342,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 187,
+        "ok": 187,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 342,
+        "ok": 342,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 436,
+        "ok": 436,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 510,
+        "ok": 510,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 525,
+        "ok": 525,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 2,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.4,
+        "ok": 0.4,
+        "ko": 0
+    }
+},
+"contents": {
+"req_www-adidas-fi-86bc1": {
+        "type": "REQUEST",
+        "name": "www.adidas.fi",
+"path": "www.adidas.fi",
+"pathFormatted": "req_www-adidas-fi-86bc1",
+"stats": {
+    "name": "www.adidas.fi",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 155,
+        "ok": 155,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 155,
+        "ok": 155,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 155,
+        "ok": 155,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 155,
+        "ok": 155,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 155,
+        "ok": 155,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 155,
+        "ok": 155,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 155,
+        "ok": 155,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.2,
+        "ok": 0.2,
+        "ko": 0
+    }
+}
+    },"req_www-adidas-fi-r-7379e": {
+        "type": "REQUEST",
+        "name": "www.adidas.fi Redirect 1",
+"path": "www.adidas.fi Redirect 1",
+"pathFormatted": "req_www-adidas-fi-r-7379e",
+"stats": {
+    "name": "www.adidas.fi Redirect 1",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 529,
+        "ok": 529,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 529,
+        "ok": 529,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 529,
+        "ok": 529,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 529,
+        "ok": 529,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 529,
+        "ok": 529,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 529,
+        "ok": 529,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 529,
+        "ok": 529,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.2,
+        "ok": 0.2,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

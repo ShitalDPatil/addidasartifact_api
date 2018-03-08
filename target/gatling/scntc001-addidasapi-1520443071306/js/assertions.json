@@ -1,0 +1,10 @@
+{
+  "simulation": "com.addidas.api.scnTC001_AddidasAPI",
+  "simulationId": "scntc001-addidasapi",
+  "start": 1520443071306,
+  "description": "null",
+  "scenarios": ["Addidas"],
+  "assertions": [
+
+  ]
+}
